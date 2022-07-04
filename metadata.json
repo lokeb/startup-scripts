@@ -1,0 +1,8 @@
+{
+  "name": "Startup Scripts",
+  "description": "Autostart any script or application",
+  "uuid": "startupscripts@loke.capuchin.tk",
+  "shell-version": [
+    "3.38"
+  ]
+}
