@@ -1,8 +1,9 @@
 {
   "name": "Startup Scripts",
   "description": "Autostart any script or application",
-  "uuid": "startupscripts@loke.capuchin.tk",
+  "uuid": "startup-scripts@loke.capuchin.tk",
   "shell-version": [
     "3.38"
-  ]
+  ],
+  "url": "https://github.com/lokeb/startup-scripts"
 }
